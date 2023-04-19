@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Calculon</string>
+   <string>Calculator by Digits88</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <property name="sizePolicy">

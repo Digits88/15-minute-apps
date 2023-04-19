@@ -18,7 +18,7 @@ and Paint.
 1. [Web Browser (tabbed)](browser_tabbed/) - "Mozzarella Ashbadger"
 1. **[Minesweeper](minesweeper/) - "Moonsweeper"**
 1. [Notepad](notepad/) - "No2Pads"
-1. [Calculator](calculator/) - "Calculon" (QtDesigner)
+1. [Calculator by Digits88](calculator/) - "Calculator by Digits88" (QtDesigner)
 1. [Word Processor](wordprocessor/) - "Megasolid Idiom"
 1. [Webcam/Snapshot](camera/) - "NSAViewer"
 1. [Media Player](mediaplayer/) - "Failamp"

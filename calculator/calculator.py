@@ -96,7 +96,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
             try:
                 self.stack = [self.current_op(*self.stack)]
             except Exception:
-                self.lcdNumber.display('Err')
+                self.lcdNumber.display('Error')
                 self.stack = [0]
             else:
                 self.current_op = None
@@ -106,7 +106,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
 
 if __name__ == '__main__':
     app = QApplication([])
-    app.setApplicationName("Calculon")
+    app.setApplicationName("Calculator by Digits88")
 
     window = MainWindow()
     app.exec_()
